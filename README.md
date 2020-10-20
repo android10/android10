@@ -1,4 +1,4 @@
-[![Fernando-Cejas](https://raw.githubusercontent.com/android10/Sample-Data/master/android10/fernando_cover_github.jpg)](https://www.fernandocejas.com/)
+[![Fernando-Cejas](https://raw.githubusercontent.com/android10/Sample-Data/master/android10/fernando_cover_github2.jpg)](https://www.fernandocejas.com/)
 
 <!--
 **android10/android10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..-->
